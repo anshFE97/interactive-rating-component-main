@@ -41,6 +41,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Solution]https://anshfe97.github.io/interactive-rating-component-main/)
 - Frontend Mentor - [@anshFE97](https://www.frontendmentor.io/profile/anshFE97)
 
